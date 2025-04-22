@@ -1,0 +1,5 @@
+package com.kh.makeFood.member.controller;
+
+public class MemberRegistController {
+
+}
